@@ -22,8 +22,8 @@
   <h3>Disusun Oleh :</h3>
 
   <p>
-    <strong>Arnanda Setya Nosa Putra</strong><br>
-    <strong>2311102180</strong><br>
+    <strong>aArvan Murbiyanto</strong><br>
+    <strong>2311102074</strong><br>
     <strong>S1 IF-11-04</strong>
   </p>
 
@@ -191,8 +191,8 @@ menggunakan `var`, _type annotation_, dan _multiple variable_.
 var namaVariable = nilai;
 
 // type annotation
-String nama = "Arnanda";
-int umur = 20;
+String nama = "arvan";
+int umur = 21;
 
 // multiple variable
 var a = 1, b = 2, c = 3;
@@ -298,5 +298,6 @@ factorial(number) {
 
 - Flutter Docs: [https://docs.flutter.dev](https://docs.flutter.dev)
 - Modul 1 dan 2 Praktikum Aplikasi Berbasis Platform
-#   m o d u l - p e r t e m u a n - 8  
+#   m o d u l - p e r t e m u a n - 8 
+ 
  
