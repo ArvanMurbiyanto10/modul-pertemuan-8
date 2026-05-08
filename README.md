@@ -22,7 +22,7 @@
   <h3>Disusun Oleh :</h3>
 
   <p>
-    <strong>aArvan Murbiyanto</strong><br>
+    <strong>Arvan Murbiyanto</strong><br>
     <strong>2311102074</strong><br>
     <strong>S1 IF-11-04</strong>
   </p>
