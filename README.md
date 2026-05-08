@@ -210,7 +210,7 @@ Boolean (bool)
 
 ### Screenshot Hasil Variable:
 
-<img width="376" height="169" alt="image" src="https://github.com/user-attachments/assets/f803bc0b-43b4-4e1e-aa6d-9347d1cd47dc" />
+<img width="376" height="169" alt="image" src="https://github.com/user-attachmentss/assets/f803bc0b-43b4-4e1e-aa6d-9347d1cd47dc" />
 
 ## 3.1.2. Statement Control
 
